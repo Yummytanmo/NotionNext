@@ -120,7 +120,7 @@ const CONFIG = {
   HEO_SOCIAL_CARD_TITLE_1: '微信公众号',
   HEO_SOCIAL_CARD_TITLE_2: '关注微信公众号了解更多',
   HEO_SOCIAL_CARD_TITLE_3: '点击关注公众号',
-  HEO_SOCIAL_CARD_URL: 'https://yummytanmo.fun/weixin', // 微信公众号二维码链接
+  HEO_SOCIAL_CARD_URL: 'https://blog.yummytanmo.fun/wechat', // 微信公众号二维码链接
 
   // 底部统计面板文案
   HEO_POST_COUNT_TITLE: '文章数:',
