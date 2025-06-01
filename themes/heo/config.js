@@ -23,7 +23,7 @@ const CONFIG = {
   HEO_HERO_TITLE_3: 'YUMMYTANMO.COM',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: '爱乐智呈 虚拟乐器演奏平台',
-  HEO_HERO_TITLE_LINK: 'https://hitaiyuezhicheng.com',
+  HEO_HERO_TITLE_LINK: 'https://www.hitaiyuezhicheng.com',
   // 英雄区遮罩文字
   HEO_HERO_COVER_TITLE: '随便逛逛',
 
