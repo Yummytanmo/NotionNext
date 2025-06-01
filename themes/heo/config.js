@@ -19,7 +19,7 @@ const CONFIG = {
 
   // 英雄区(首页顶部大卡)
   HEO_HERO_TITLE_1: '探索未来',
-  HEO_HERO_TITLE_2: '探索AI的无限可能',
+  HEO_HERO_TITLE_2: '的无限可能',
   HEO_HERO_TITLE_3: 'YUMMYTANMO.COM',
   HEO_HERO_TITLE_4: '新版上线',
   HEO_HERO_TITLE_5: '爱乐智呈 虚拟乐器演奏平台',
