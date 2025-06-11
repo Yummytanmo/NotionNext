@@ -29,8 +29,8 @@ class MyDocument extends Document {
               />
             </>
           )}
+        <meta name="baidu-site-verification" content="codeva-NJ1kjLxyqd" />
         </Head>
-
         <body>
           <Main />
           <NextScript />
